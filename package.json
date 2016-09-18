@@ -1,0 +1,68 @@
+{
+  "name": "react-filterable",
+  "version": "0.0.1",
+  "description": "Easy filter and controls library for React",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danneaves/react-filterable"
+  },
+  "homepage": "https://react-filterable.github.io/",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "react",
+    "ecosystem-react",
+    "react-component",
+    "reselect"
+  ],
+  "author": {
+    "name": "Daniel Neaves",
+    "email": "dan@danielneaves.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "lodash": "^4.14.1",
+    "lodash.assign": "~4.2.0",
+    "lodash.without": "^4.4.0",
+    "moment": "^2.14.1",
+    "react": "^15.0.0",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.3.1",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.0.1",
+    "reselect": "^2.5.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.4",
+    "babel-eslint": "^6.1.2",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-plugin-syntax-decorators": "^6.3.13",
+    "babel-plugin-transform-runtime": "^6.6.0",
+    "babel-polyfill": "^6.7.4",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "css-loader": "^0.23.0",
+    "es5-shim": "^4.4.1",
+    "eslint": "^3.2.2",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^6.0.0",
+    "expose-loader": "^0.7.1",
+    "express": "^4.13.3",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "jscs": "^3.0.7",
+    "react-transform-hmr": "^1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/danneaves/react-filterable/issues"
+  }
+}
